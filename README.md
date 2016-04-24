@@ -10,7 +10,7 @@
 # Moodle web administration
 
 # Development tools
-Moosh: http://moosh-online.com/
+Moodle Docs: https://docs.moodle.org/30/en/Developer_tools
 
 # Tutorials
 
