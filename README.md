@@ -3,7 +3,7 @@
 
  # Moodle courses
  * http://www.moodlebites.com
- *
+ * https://moodlemoot.org/
 
 # System Administration
 
