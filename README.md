@@ -11,6 +11,8 @@
 
 # Development tools
 Moodle Docs: https://docs.moodle.org/30/en/Developer_tools
+MoodleBites: http://www.moodlebites.com/
+
 
 # Tutorials
 
