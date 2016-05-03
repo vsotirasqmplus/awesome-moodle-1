@@ -4,7 +4,8 @@
  # Moodle courses
  * http://www.moodlebites.com
  * https://moodlemoot.org/
-
+ * https://www.lynda.com/Moodle-training-tutorials/257-0.html
+ 
 # System Administration
 
 # Moodle web administration
