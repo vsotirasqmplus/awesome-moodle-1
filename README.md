@@ -14,6 +14,8 @@
 Moodle Docs: https://docs.moodle.org/30/en/Developer_tools
 MoodleBites: http://www.moodlebites.com/
 Moosh: http://moosh-online.com/
+Moodle Development kit - MoodleDocs 
+ https://docs.moodle.org/dev/Moodle_Development_kit
 
 # Tutorials
 
